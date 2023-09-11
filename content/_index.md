@@ -1,13 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Juan P. Romano
 date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: 
       image:
         filename: hero-academic.png
       cta:
